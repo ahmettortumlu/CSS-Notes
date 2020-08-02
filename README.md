@@ -1,2 +1,3 @@
 # CSS-Notes
-I will note to the liked css codes.
+
+**I noted some codes while i was reviewing CSS. You can find out different css code snippets at this repository**
